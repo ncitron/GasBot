@@ -8,8 +8,8 @@ To query the fastest, fast, average, and safe, low, use the command:
  
  ## Installation
  If you would like to use this bot on your own server, first set up a Discord bot through the Discord Developer portal. Also obtain an API key from 
- [Eth Gas Station](ethgasstation.info). Next, pull this repository onto your local machine:<br />
- `git clone <clone_url>`
+ [Eth Gas Station](https://www.ethgasstation.info/). Next, pull this repository onto your local machine:<br />
+ `git clone <git_url>`
  <br>
  Open the .env file, and imput your API keys in the correct spaces.
  <br />
