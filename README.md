@@ -3,7 +3,7 @@ A discord bot for keeping track of Ethereum gas prices.
 
 ## Usage
 To Invite the bot to your server, use the [Discord invite link](https://discord.com/oauth2/authorize?client_id=758798038134947880&scope=bot&permissions=8).
-The bot's nickname is automatically updates every 10 seconds to reflect current gas prices.
+The bot's nickname is automatically updated every 10 seconds to reflect current gas prices.
 To query the fastest, fast, average, and safe, low, use the command:
  `!gas`
  
